@@ -1,4 +1,11 @@
-
+<!DOCTYPE html>
+  <html lang="en">
+<head>
+<title>fields</tittle>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
 <form>
   <div class="form-group">
     <label for="exampleInputEmail1">Email address</label>
@@ -15,3 +22,5 @@
   </div>
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
+</body>
+</html>
